@@ -1,0 +1,23 @@
+{
+  "name": "svg-lab",
+  "version": "0.1.0",
+  "description": "Fooling around with svg. Matchmedia, mediaqueries, css, symbols etc.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/batfink/svg-lab"
+  },
+  "author": "Victor Nystad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/batfink/svg-lab/issues"
+  },
+  "homepage": "https://github.com/batfink/svg-lab",
+  "devDependencies": {
+    "browser-sync": "^1.7.2",
+    "gulp": "^3.8.10"
+  }
+}
