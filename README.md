@@ -1,7 +1,7 @@
 svg-lab
 =======
 
-Just fooling around with svg. 
+Just fooling around with svg. The actual svgs are in the gh-pages branch.
 
 Usage
 -----
